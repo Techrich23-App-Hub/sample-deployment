@@ -8,7 +8,7 @@
    // ini_set("display_errors", 1);
 ?>
 
-<html lang = "en>
+<html lang = "en">
    
    <head>
       <title>login.com</title>

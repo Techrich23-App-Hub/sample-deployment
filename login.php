@@ -8,7 +8,7 @@
    // ini_set("display_errors", 1);
 ?>
 
-<html lang = "en">
+<html lang = "en>
    
    <head>
       <title>login.com</title>
@@ -118,7 +118,7 @@
       </div> 
       
    </body>
-</htm
+</html>
 Logout.php
 It will erase the session data.
 

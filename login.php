@@ -1,4 +1,4 @@
-?php
+<?php
    ob_start();
    session_start();
 ?>
@@ -118,7 +118,7 @@
       </div> 
       
    </body>
-</html>
+</htm
 Logout.php
 It will erase the session data.
 

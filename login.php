@@ -118,7 +118,7 @@
       </div> 
       
    </body>
-</html>
+</html
 Logout.php
 It will erase the session data.
 
